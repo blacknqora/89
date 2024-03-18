@@ -1,4 +1,4 @@
 # 89
 # Swift 23:
-let message = "hello, swift!"
+let message = "hi, swift!"
 print(message)A
