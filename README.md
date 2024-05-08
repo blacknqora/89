@@ -2,4 +2,4 @@
 # Swift 13:
 let message = "hi, swift!"
 print(message)T
-static void main(18)
+static void main(08)
